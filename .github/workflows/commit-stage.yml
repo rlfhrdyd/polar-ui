@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: gmdcjdakdcjd/polar-ui
+  IMAGE_NAME: rlfhrdyd/polar-ui
   VERSION: v8
 
 jobs:
